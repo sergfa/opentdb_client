@@ -1,4 +1,3 @@
-
 /// Used to obtain a quiz by specified difficalty.
 enum OpentdbQuizDifficalty {
   EASY,
@@ -25,6 +24,7 @@ extension OpentdbQuizDifficaltyExtension on OpentdbQuizDifficalty {
 enum OpentdbQuizType {
   /// Quiz with multi answers
   MULTIPLE,
+
   /// Quiz with True/False answer
   TRUE_FALSE,
 }

@@ -9,9 +9,8 @@ void main() {
     expect(categoreis.length, greaterThan(0));
   });
 
-test('should have random category', () {
+  test('should have random category', () {
     final categoreis = OpentdbRepository.fetchCategories();
     expect(categoreis.where((element) => element.id == -1), isNotEmpty);
   });
-
 }

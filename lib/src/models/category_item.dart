@@ -8,11 +8,12 @@ class OpentdbCategoryItem {
   /// The name of category
   /// For example: Film, Music, Books, etc...
   final String name;
+
   /// The id of the category
   final int id;
 
   /// Create a new instance of [OpentdbCategoryItem].
-  /// To get list of all categories use [OpentdbRepository.fetchCategories] function. 
+  /// To get list of all categories use [OpentdbRepository.fetchCategories] function.
   OpentdbCategoryItem({@required this.name, @required this.id});
 
   @override
