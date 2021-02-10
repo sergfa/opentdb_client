@@ -1,4 +1,4 @@
-## [0.9.0+2] - Format files.
+## [0.9.0+3] - Format files.
 
 * Format source files
 
