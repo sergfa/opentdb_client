@@ -1,5 +1,10 @@
 # opentdb_client
 
+[![pub package](https://img.shields.io/pub/v/opentdb_client.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/opentdb_client)
+[![Last Commits](https://img.shields.io/github/last-commit/sergfa/opentdb_client?logo=git&logoColor=white)](https://github.com/sergfa/opentdb_client/commits/main)
+[![Pull Requests](https://img.shields.io/github/issues-pr/sergfa/opentdb_client?logo=github&logoColor=white)](https://github.com/sergfa/opentdb_client/pulls)
+[![Code size](https://img.shields.io/github/languages/code-size/sergfa/opentdb_client?logo=github&logoColor=white)](https://github.com/sergfa/opentdb_client)
+[![License](https://img.shields.io/github/license/sergfa/opentdb_client?logo=open-source-initiative&logoColor=green)](https://github.com/sergfa/opentdb_client/blob/main/LICENSE)
 
 
 Unofficial client for Open Trivia Quiz API (opentdb.com). Use of this API does not require a API Key
