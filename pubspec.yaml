@@ -1,6 +1,6 @@
 name: opentdb_client
 description: Unofficial client for Open Trivia Quiz API (opentdb.com). Use of this API does not require a API Key
-version: 0.9.0
+version: 0.9.0+1
 homepage: https://github.com/sergfa/opentdb_client
 repository: https://github.com/sergfa/opentdb_client
 

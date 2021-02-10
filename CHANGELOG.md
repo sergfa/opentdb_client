@@ -1,3 +1,7 @@
+## [0.9.0+1] - Update dependencies.
+
+* Remove dependency to Flutter package.
+
 ## [0.9.0] - Initial commit.
 
-* TODO: Describe initial release.
+* Describe initial release.
